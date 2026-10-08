@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Pertemuan 4 PAM</string>
     <string name="prodi">Teknologi Informasi</string>
-
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Muhammad Daffa Azakki</string>
 
 </resources>
