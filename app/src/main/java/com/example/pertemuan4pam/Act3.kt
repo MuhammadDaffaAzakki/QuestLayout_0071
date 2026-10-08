@@ -26,4 +26,11 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontFamily
 
-
+@Composable
+fun ActivitasPertama(modifier: Modifier = Modifier) {
+    Column(
+        modifier = modifier
+            .padding(top = 100.dp)
+            .fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
